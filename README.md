@@ -16,4 +16,4 @@ FMDB-Sqlite-Tutorial
 
 It is recommended that you create a Singleton class for handling databases.
 
-Hope this help.
+Hope this helps.
